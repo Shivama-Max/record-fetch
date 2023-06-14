@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/record-table/static/css/main.542dca99.css",
+    "main.js": "/record-table/static/js/main.d5bf68a9.js",
+    "index.html": "/record-table/index.html",
+    "main.542dca99.css.map": "/record-table/static/css/main.542dca99.css.map",
+    "main.d5bf68a9.js.map": "/record-table/static/js/main.d5bf68a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542dca99.css",
+    "static/js/main.d5bf68a9.js"
+  ]
+}
