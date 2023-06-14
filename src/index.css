@@ -6,7 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+html,body,div[id="bg"]{
+  background : radial-gradient(circle,rgb(209, 149, 214),rgb(173, 145, 145))
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
